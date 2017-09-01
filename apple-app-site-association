@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "UP84TZHWYP.com.pingan.pacaifubaoent",
+                "paths": [ "/wwdc/news/", "/videos/wwdc/2015/*"]
+            }
+        ]
+    }
+}
